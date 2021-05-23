@@ -1,1 +1,2 @@
-20212971 Minji Kim
+20212971 Minji 
+Kookmin Univ. SW
