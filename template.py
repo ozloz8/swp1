@@ -7,7 +7,11 @@ html = b"""
               + <input type="number" name="c"><br><br>
             <input type="submit">
         </form>
+<<<<<<< HEAD
         <img src="/graph.png" alt="Result image here">
+=======
+        <img src="/img/graph.png" alt="Result image here">
+>>>>>>> bd779bbf068300f55bcf1dd41ec48150487a8936
     </body>
 </html>
 """
