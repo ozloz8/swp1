@@ -1,3 +1,3 @@
 20212971 -  Minji Kim
 
-Kookmin Univ. CS
+Kookmin Univ. School of Computer Science
